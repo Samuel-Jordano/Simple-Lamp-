@@ -1,0 +1,21 @@
+body{
+    background: url(images/SimpleBg.jpg);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div{
+    text-align: center;
+}
+button:hover{
+    cursor: pointer;
+}
+
+button{
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 4em;
+    width: 9em;
+    margin: 7px;
+    border-radius: 5px;
+}
+
+
